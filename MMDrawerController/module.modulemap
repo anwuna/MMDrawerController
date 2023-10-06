@@ -1,0 +1,4 @@
+module MMDrawerController {
+    header "UIViewController+MMDrawerController.h"
+    export *
+}
